@@ -1,0 +1,12 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Calculadora\Calculadora.Libreria\bin\Debug\Calculadora.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Calculadora\Calculadora.Libreria\bin\Debug\Calculadora.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Calculadora\Calculadora.Libreria\obj\Debug\Calculadora.Libreria.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Calculadora\Calculadora.Libreria\obj\Debug\Calculadora.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Calculadora\Calculadora.Libreria\obj\Debug\Calculadora.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Calculadora\Calculadora.Libreria\obj\Debug\Calculadora.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjercicioCalculadoraForms\Calculadora\Calculadora.Libreria\bin\Debug\Calculadora.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjercicioCalculadoraForms\Calculadora\Calculadora.Libreria\bin\Debug\Calculadora.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjercicioCalculadoraForms\Calculadora\Calculadora.Libreria\obj\Debug\Calculadora.Libreria.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjercicioCalculadoraForms\Calculadora\Calculadora.Libreria\obj\Debug\Calculadora.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjercicioCalculadoraForms\Calculadora\Calculadora.Libreria\obj\Debug\Calculadora.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjercicioCalculadoraForms\Calculadora\Calculadora.Libreria\obj\Debug\Calculadora.Libreria.pdb
